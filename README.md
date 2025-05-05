@@ -1,7 +1,7 @@
 # 👋 Hello, I'm grantghk!
 
 ## About
-I'm a student who loves coding and watching some anime. I'm learning new things and improving my skills, particularly in coding.  
+I'm a normal guy who loves coding and watching some anime. 
 I’m currently working as developer on **Nyxy** Discord bot
 
 
