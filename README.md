@@ -2,7 +2,7 @@
 
 ## About
 I'm a normal guy who loves coding and watching some anime. 
-I’m currently working as developer on **Nyxy** Discord bot
+- I’m currently working as developer on **Nyxy** Discord bot
 
 
 ## Tech stack
