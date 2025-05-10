@@ -1,16 +1,17 @@
-# 👋 Hello, I'm grantghk!
+# 👋 Hi, I'm grantghk!
 
-## About
-I'm a normal guy who loves coding and watching some anime. 
-- I’m currently working as developer on **Nyxy** Discord bot
+## About!
+- 🏫 I'm still a student in high school
+- 🤸🏻‍♂️ Everyone can talk to me about anime and game
+- 🤖 I’m currently working as developer on **Nyxy** Discord bot
 
 
-## Tech stack
+## 💻 Programming?
 - Languages: `JavaScript`, `Python`, `Lua`, `Java`
 - Framework: flask, Node.js, Discord.py/js, Sqlite
 - Tools: Github,Git,Mongodb
 
-## Contact 
+## 📱 How to reach me?
 
 - Discord: `grantghk`
 - Email: `grantghk@gmail.com`/`grantghk@outlook.com`
