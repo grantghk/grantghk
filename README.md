@@ -8,10 +8,10 @@
 
 ## 💻 Programming?
 - Languages: `JavaScript`, `Python`, `Lua`, `Java`
-- Framework: flask, Node.js, Discord.py/js, Sqlite
-- Tools: Github,Git,Mongodb
+- Framework: `flask`,`Django`, `Node.js`, `Discord.py/js`, `Sqlite`
+- Tools: `Github`,`Git`,`Mongodb`,`Postman`
 
-## 📱 How to reach me?
+## 📱 Contract me?
 
 - Discord: `grantghk`
 - Email: `grantghk@gmail.com`/`grantghk@outlook.com`
