@@ -3,10 +3,11 @@
 ## About!
 - 🏫 I'm still a student in high school
 - 🤸🏻‍♂️ Everyone can talk to me about anime and game
+- 🏁 I'm Fullstack developer too!
 - 🤖 I’m currently working as developer on **Nyxy** Discord bot
 
 
-## 💻 Programming?
+## 💻 Tech stacks?
 - Languages: `JavaScript`, `Python`, `Lua`, `Java`
 - Framework: `flask`,`Django`, `Node.js`, `Discord.py/js`, `Sqlite`
 - Tools: `Github`,`Git`,`Mongodb`,`Postman`
