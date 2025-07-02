@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-## 📱 Contract me?
+## 📱 Contact me?
 
 - Discord: `grantghk`
 - Email: `grantghk@gmail.com`/`grantghk@outlook.com`
