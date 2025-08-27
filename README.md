@@ -17,15 +17,15 @@
 </p>
 
 ---
-<h2 align="center">🛠 Tech Stack</h2>
+## 🛠 Tech Stack
 
-<p align="center">
-  <b>Languages:</b> Python • JavaScript • TypeScript • Lua • C <br>
-  <b>Frontend:</b> React • Next.js • Vue • HTML • CSS • Tailwind CSS • Bootstrap <br>
-  <b>Backend:</b> Node.js • Express.js • Hono <br>
-  <b>Databases:</b> MongoDB • MySQL • SQLite <br>
-  <b>Tools & Platforms:</b> Git • Docker • Linux • Windows • Arduino • Figma • Canva • Adobe Photoshop
-</p>
+**Languages:** Python, JavaScript, TypeScript, Lua, C  
+**Frontend:** React, Next.js, Vue, HTML, CSS, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, Hono  
+**Databases:** MongoDB, MySQL, SQLite  
+**Tools & Platforms:** Git, Docker, Linux, Windows, Arduino, Figma, Canva, Adobe Photoshop  
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,lua,c,react,nextjs,vue,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,sqlite,git,docker,linux,windows,arduino,figma,photoshop" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,lua,c,react,nextjs,vue,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,sqlite,git,docker,linux,windows,arduino,figma,photoshop" />
