@@ -24,4 +24,5 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,vue,flask,django,nodejs,mongodb,mysql,sqlite,linux,windows,git,tailwind,bootstrap,arduino,docker" alt="Tech Stack" />
 </p>
 ---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=grantghk)](https://github.com/ryo-ma/github-profile-trophy)
