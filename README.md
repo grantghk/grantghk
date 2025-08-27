@@ -6,7 +6,7 @@
 <h3 align="center">💫 About Me</h3>
 
 <p align="center">
-  Hey there 👋 I'm <b>grantghk</b> — welcome to my GitHub!  
+  Heya 👋 welcome to my GitHub!  
   <br><br>
   I’m passionate about <b>building websites, games, and mobile applications</b>.  
   Right now, I’m preparing for my entrance to <i>SciUs KMITT</i> while learning <b>Spring Boot</b> and <b>Vue.js</b>.  
