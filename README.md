@@ -19,5 +19,7 @@
 ---
 <h3 align="center">Tech stack</h3>
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,vue,flask,django,nodejs,mongodb,mysql,sqlite,linux,windows,git,tailwind,bootstrap,arduino,docker" alt="Tech Stack" />
+
 ---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=grantghk)](https://github.com/ryo-ma/github-profile-trophy)
