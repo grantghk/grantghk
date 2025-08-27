@@ -22,4 +22,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=grantghk)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=grantghk&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
