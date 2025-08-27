@@ -19,36 +19,16 @@
 ---
 <h2 align="center">🛠 Tech Stack</h2>
 
-<h3 align="center">💻 Languages & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,lua,c,nodejs,bun,react,nextjs,vue,flask,django" />
-</p>
-<p align="center">
-  Python • JavaScript • TypeScript • HTML • CSS • Lua • C • Node.js • Bun • React • Next.js • Vue • Flask • Django
-</p>
-
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-<p align="center">
-  MongoDB • MySQL • SQLite
+  <b>Languages:</b> Python • JavaScript • TypeScript • Lua • C <br>
+  <b>Frontend:</b> React • Next.js • Vue • HTML • CSS • Tailwind CSS • Bootstrap <br>
+  <b>Backend:</b> Node.js • Express.js • Hono <br>
+  <b>Databases:</b> MongoDB • MySQL • SQLite <br>
+  <b>Tools & Platforms:</b> Git • Docker • Linux • Windows • Arduino • Figma • Canva • Adobe Photoshop
 </p>
 
-<h3 align="center">🎨 Design & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,photoshop" />
-</p>
-<p align="center">
-  Figma • Canva • Adobe Photoshop • Adobe Illustrator
-</p>
-
-<h3 align="center">⚙️ Other Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,arduino,linux,windows,bootstrap,tailwind" />
-</p>
-<p align="center">
-  Git • Docker • Arduino • Linux • Windows • Bootstrap • Tailwind CSS
+  <img src="https://skillicons.dev/icons?i=python,js,ts,lua,c,react,nextjs,vue,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,sqlite,git,docker,linux,windows,arduino,figma,photoshop" />
 </p>
 
 ---
