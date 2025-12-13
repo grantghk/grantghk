@@ -26,11 +26,11 @@
 
 Languages: **Python, JavaScript, TypeScript, Lua, C, C++**  
 Frontend: **React, Next.js, Vue, HTML, CSS, Tailwind CSS, Bootstrap**  
-Backend: **Node.js, Express.js, Hono**  
-Databases: **MongoDB, MySQL, SQLite**  
+Backend: **Node.js, Express.js, Hono, Prisma, SocketIO, Django**  
+Databases: **MongoDB, MySQL, SQLite, Postgres**  
 Tools & Platforms: **Git, Docker, Linux, Windows, Arduino, Figma**  
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,lua,c,cpp,react,nextjs,vue,html,css,tailwind,bootstrap,nodejs,express,mongodb,mysql,sqlite,git,docker,linux,windows,arduino,figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,lua,c,cpp,react,nextjs,vue,html,css,tailwind,bootstrap,nodejs,express,socketio,django,postgres,prisma,mongodb,mysql,sqlite,git,docker,linux,windows,arduino,figma,photoshop" />
 
 ---
 
