@@ -8,17 +8,9 @@
 <p align="center">
   Heya 👋 welcome to my GitHub!  
   <br><br>
-  I’m passionate about <b>building websites, games, and mobile applications</b>.  
-  Currently i'm learning <b>Spring Boot</b> and <b>Vue.js</b>.  
-  <br><br>
-  I believe in the power of technology to create meaningful experiences —  
-  from <b>intuitive user interfaces</b> to <b>robust backend systems</b>.  
-  <br><br>
-  Beyond coding, I enjoy <b>photography 📸</b>, capturing moments that inspire me  
-  and sharpen my eye for detail.  
-  <br><br>
-  Thanks for stopping by — I hope you enjoy exploring my projects  
-  and maybe even join me on this exciting journey 🚀
+  I'm grant, also i interesting on full-stack developer and game developer too.
+  Currently i'm focusing on coding completation.
+  Beyond coding,I enjoy photography to capture my moments.
 </p>
 
 ---
