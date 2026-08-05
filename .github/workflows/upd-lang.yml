@@ -2,11 +2,15 @@ name: Update Profile Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"      # รันทุกวันเที่ยงคืน UTC
-  workflow_dispatch: {}       # กดรันเองได้จากแท็บ Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
   push:
     paths:
       - ".github/workflows/update-readme-stats.yml"
+
+concurrency:
+  group: update-profile-stats
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -54,5 +58,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git diff --cached --quiet || git commit -m "chore: update profile stats [skip ci]"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update profile stats [skip ci]"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
