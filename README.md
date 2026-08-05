@@ -41,9 +41,6 @@ Status     : Studying in High School
 <h1 align="center"></h1>
 <br>
 <p align="center"> 
-  <img src="https://lanyard-profile-readme.vercel.app/api/924259129508376616" align="center">
-</p>
-<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=grantghk&label=Profile+Views&color=8B5CF6&style=for-the-badge" alt="Profile views"/> 
   <img src="https://img.shields.io/github/followers/grantghk?label=Followers&style=for-the-badge&color=0E75B6" alt="Followers"/> 
   <a href="mailto:grantghk@gmail.com">
@@ -52,4 +49,7 @@ Status     : Studying in High School
   <a href="https://discord.com/users/924259129508376616">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a> 
+</p>
+<p align="center"> 
+  <img src="https://lanyard-profile-readme.vercel.app/api/924259129508376616" align="center">
 </p>
