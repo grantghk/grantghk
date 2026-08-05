@@ -8,7 +8,7 @@ grantghk@github README.md ~ % fetchneo
 ------------------------------------------------------------
 OS         : Win 11 Pro, macOS 26 Tahoe, Ubuntu 24.04 LTS
 Host       : GitHub
-Kernel     : JavaScript & Python
+Kernel     : GRANTGHK 1.0T
 Uptime     : Since 2021
 Location   : Thailand
 Time Zone  : GMT+7
