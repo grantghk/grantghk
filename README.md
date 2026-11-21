@@ -6,7 +6,7 @@
 ```lua
 grantghk@github README.md ~ % fetchneo
 ------------------------------------------------------------
-OS         : Win 11 Pro, macOS 26 Tahoe, Ubuntu 24.04 LTS
+OS         : Win 11, macOS 27 Golden Gate, Ubuntu 24.04 LTS
 Host       : GitHub
 Kernel     : GRANTGHK 1.0T
 Uptime     : Since 2021
